@@ -13,7 +13,7 @@ const Selector = () => {
       <Form>
         <Picker
           note
-          placeholder="Seleccione una nave"
+          placeholder="Seleccione una nave..."
           // iosIcon={<Icon name="arrow-down" />}
           mode="dropdown"
           // eslint-disable-next-line react-native/no-inline-styles
